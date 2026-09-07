@@ -1,6 +1,6 @@
 # Hi there, I'm Samuel 👋 
 
-Computer Information Systems & Computer Science student at Georgia State University focusing on **AI Analytics & Cybersecurity** 🛡️. I build data-driven automations, secure workflow integrations, and full-stack Python tools 💻.
+Computer Information Systems & Computer Science student at Georgia State University focusing on **AI Analytics & Cybersecurity** . I build data-driven automations, secure workflow integrations, and full-stack Python tools .
 
 ---
 
@@ -8,8 +8,8 @@ Computer Information Systems & Computer Science student at Georgia State Univers
 - 🔭 **Currently Building:** Autonomous Agent for Student Cognitive Overload, API integrations, and Weather Automation Tools in Python ⚙️
 - 🎓 **Education:** B.B.A. in Computer Information Systems (Dual Focus: Cybersecurity & AI Analytics), Minor in CS @ Georgia State University GO PANTHERS!!🐾
 - 🌱 **Currently Exploring:** Cloud architectures (AWS, GCP, Azure) and applied machine learning ☁️
-- 🛡️ **Affiliations:** CodePath Scholar • AWS GSU • GSU Cybersecurity Club [cite: 1]
-- 📫 **Connect with Me:** [LinkedIn](https://www.linkedin.com/in/samuelakproh/) • [Email](mailto:Samakproh@example.com) 📬
+- **Affiliations:** CodePath Scholar • AWS GSU • GSU Cybersecurity Club
+- 📫 **Connect with Me:** [LinkedIn](https://www.linkedin.com/in/samuelakproh/) • [Email](mailto:Samakproh@gmail.com) 📬
 
 ---
 
@@ -44,7 +44,12 @@ Computer Information Systems & Computer Science student at Georgia State Univers
 ### 🚀 Highlighted Projects
 
 * **[Serverless Donation & Event Pipeline](https://github.com/SamuelAkproh/workout-tracker-automation)** ⚡
-  Engineered a real-time event-driven integration connecting Givebutter webhooks to Google Sheets and Google Chat, tracking over $5,800+ in campaign donations and eliminating 5+ hours/week of manual administrative tracking[cite: 1].
+  Engineered a real-time event-driven integration connecting Givebutter webhooks to Google Sheets and Google Chat, tracking over $5,800+ in campaign donations and eliminating 5+ hours/week of manual administrative tracking.
 * **[Workout Tracker](https://github.com/SamuelAkproh/workout-tracker-automation)** ⚡
 Built an automated workout tracking app integrating Nutritionix NLP API and Google Sheets via Sheety to log exercises and calorie data seamlessly.
+**[Cryptographic & Secure Infrastructure Lab](https://github.com/SamuelAkproh)** 🔐  
+  Configured passwordless PKI/SSH remote access across Azure and local environments, established cryptographic Git commit signing protocols (`allowed_signers`), and engineered OpenSSL encryption pipelines.
 ---
+
+
+  
