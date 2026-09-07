@@ -34,7 +34,6 @@ Computer Information Systems & Computer Science student at Georgia State Univers
 **Cloud, Systems & DevOps**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
@@ -45,10 +44,12 @@ Computer Information Systems & Computer Science student at Georgia State Univers
 
 * **[Serverless Donation & Event Pipeline](https://github.com/SamuelAkproh/workout-tracker-automation)** ⚡
   Engineered a real-time event-driven integration connecting Givebutter webhooks to Google Sheets and Google Chat, tracking over $5,800+ in campaign donations and eliminating 5+ hours/week of manual administrative tracking.
+  
 * **[Workout Tracker](https://github.com/SamuelAkproh/workout-tracker-automation)** ⚡
 Built an automated workout tracking app integrating Nutritionix NLP API and Google Sheets via Sheety to log exercises and calorie data seamlessly.
-**[Cryptographic & Secure Infrastructure Lab](https://github.com/SamuelAkproh)** 🔐  
-  Configured passwordless PKI/SSH remote access across Azure and local environments, established cryptographic Git commit signing protocols (`allowed_signers`), and engineered OpenSSL encryption pipelines.
+
+* **[Cryptographic & Secure Infrastructure Lab](https://github.com/SamuelAkproh)** 🔐 Configured passwordless PKI/SSH remote access across Azure and local environments, established cryptographic Git commit signing protocols (`allowed_signers`), and engineered OpenSSL encryption pipelines.
+
 ---
 
 
