@@ -43,9 +43,10 @@ Computer Information Systems & Computer Science student at Georgia State Univers
 
 ### 🚀 Highlighted Projects
 
-* **[Serverless Donation & Event Pipeline](https://github.com/Samuelakproh)** ⚡
+* **[Serverless Donation & Event Pipeline](https://github.com/SamuelAkproh/workout-tracker-automation)** ⚡
   Engineered a real-time event-driven integration connecting Givebutter webhooks to Google Sheets and Google Chat, tracking over $5,800+ in campaign donations and eliminating 5+ hours/week of manual administrative tracking[cite: 1].
-
+* **[Workout Tracker](https://github.com/SamuelAkproh/workout-tracker-automation)** ⚡
+Built an automated workout tracking app integrating Nutritionix NLP API and Google Sheets via Sheety to log exercises and calorie data seamlessly.
 ---
 
 ## 📊 GitHub Activity 
