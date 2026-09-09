@@ -31,7 +31,7 @@ Computer Science & Info Systems student at Georgia State University focusing on 
 ![Metasploit](https://img.shields.io/badge/Metasploit-black?style=for-the-badge&logo=metasploit&logoColor=white)
 ![VirusTotal](https://img.shields.io/badge/VirusTotal-394EFF?style=for-the-badge&logo=virustotal&logoColor=white)
 
-**Cloud, Systems & DevOps**  
+**Cloud & Systems**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
@@ -47,6 +47,9 @@ Computer Science & Info Systems student at Georgia State University focusing on 
   
 * **[Workout Tracker](https://github.com/SamuelAkproh/workout-tracker-automation)** ⚡
 Built an automated workout tracking app integrating Nutritionix NLP API and Google Sheets via Sheety to log exercises and calorie data seamlessly.
+
+* **[US States Game](https://github.com/SamuelAkproh/us-states-quiz-game)** ⚡
+Built an interactive GUI game built in Python using **Turtle Graphics** and **Pandas** to make learning all 50 US states and their geographic locations fun and engaging.
 
 
 ---
