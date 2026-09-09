@@ -1,6 +1,6 @@
 # Hi there, I'm Samuel 👋 
 
-Computer Information Systems & Computer Science student at Georgia State University focusing on **AI Analytics & Cybersecurity** . I build data-driven automations, secure workflow integrations, and full-stack Python tools .
+Computer Science & Info Systems student at Georgia State University focusing on **AI Analytics & Cybersecurity** . I build data-driven automations, secure workflow integrations, and full-stack Python tools .
 
 ---
 
