@@ -48,7 +48,6 @@ Computer Information Systems & Computer Science student at Georgia State Univers
 * **[Workout Tracker](https://github.com/SamuelAkproh/workout-tracker-automation)** ⚡
 Built an automated workout tracking app integrating Nutritionix NLP API and Google Sheets via Sheety to log exercises and calorie data seamlessly.
 
-* **[Cryptographic & Secure Infrastructure Lab](https://github.com/SamuelAkproh)** 🔐 Configured passwordless PKI/SSH remote access across Azure and local environments, established cryptographic Git commit signing protocols (`allowed_signers`), and engineered OpenSSL encryption pipelines.
 
 ---
 
